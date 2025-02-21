@@ -6,8 +6,7 @@ import (
 	"log"
 	"net/http"
 	
-
-	"Golang_userCredentialsUsingMysqlSeven/config"
+    "Golang_userCredentialsUsingMysqlSeven/config"
 	"Golang_userCredentialsUsingMysqlSeven/models"
 	"Golang_userCredentialsUsingMysqlSeven/utils.go"
 )
